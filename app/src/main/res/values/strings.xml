@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppZoo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtNomeProduto">Nome do animal:</string>
+    <string name="txtIdade">Idade:</string>
+    <string name="txtEspecie">Espécie:</string>
+    <string name="txtSelecione">Selecione...</string>
+    <string name="txtNovaEspecie">Nova Espécie</string>
+    <string name="hintNome">Digite o nome do Animal</string>
+    <string name="hintIdade">Digite a idade</string>
+    <string name="hintEspecies">Digite a Espécie</string>
+    <string name="txtSalvar">Salvar</string>
+    <string name="txtCancelar">Cancelar</string>
+
+    <string name="txtAtencao">Atenção!!!</string>
+    <string name="txtCamposObrigatorios">Digite os campos obrigatórios</string>
+
+</resources>
